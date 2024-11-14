@@ -1,4 +1,3 @@
-## 👋👋👋👋
 
 <!--
 **inns21/inns21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inns2110)](https://solved.ac/inns2110/)
 
