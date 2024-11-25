@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inns2110)](https://solved.ac/inns2110/)
+<img src="http://mazandi.herokuapp.com/api?handle=inns2110&theme=warm"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
